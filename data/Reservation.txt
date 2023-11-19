@@ -1,0 +1,4 @@
+#phone_no	zone	date	is_cancelled
+123-456-7890	StateHouse	2023-11-08	0
+123-456-7890	ShortNorth	2023-11-30	1
+123-456-7890	NorthMarket	2023-11-30	0
