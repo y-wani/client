@@ -1,0 +1,4 @@
+#name	address
+Nationwide Arena	200 West Nationwide Boulevard Columbus, Ohio 43215
+COSI	333 West Broad St. Columbus, OH 43215
+Huntington Park	330 Huntington Park Lane, Columbus, Ohio 43215
